@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/randm2001/simpleIOT/issues"
   },
-  "homepage": "https://github.com/randm2001/simpleIOT#readme"
+  "homepage": "https://github.com/randm2001/simpleIOT#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
 }
